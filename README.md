@@ -2,7 +2,7 @@
 Use this shell script to alert you (via system notifications on your Mac) when your terminal command has completed
 
 
-When running a long shell script/command, it's nice to go browse some aimless chatter on twitter, and it would be even better to know when the proccess is complete and you can get back to work.  That's what this shell script and alias set up is for.  The following are the instructions, had I given this missive more time I'd have made more brief.
+When running a long shell script/command, it's nice to go browse some aimless chatter on twitter, and it would be even better to know when the proccess is complete and you can get back to work.  That's what this shell script and alias set up is for.  The following are the instructions, admittedly a bit verbose and aimed to be beginner proofed, had I given this missive more time I'd have made more brief, I hope you, dear reader, yet find some benefit.  Ok, Let's Go!!
 
 ## 1.  Make the Shell Script.
 
@@ -76,4 +76,14 @@ Result:
 
 ### GREAT SUCCESS
 
+Here are some solid sources, some provide some more options, and extensions:
+[Here](https://apple.stackexchange.com/questions/57412/how-can-i-trigger-a-notification-center-notification-from-an-applescript-or-shel)
+
+[and Here](http://www.hackmac.org/articles/bash/bash-101-hello-world-and-a-little-further/)
+
+[and Here](https://askubuntu.com/questions/223691/how-do-i-create-a-script-file-for-terminal-commands)
+
+[and Here](https://apple.stackexchange.com/questions/235182/create-custom-terminal-shortcuts)
+
+[And here's](https://apple.stackexchange.com/questions/321015/can-applescript-display-when-a-script-was-last-run) an even cooler expansion.
 
