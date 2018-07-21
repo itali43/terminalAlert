@@ -13,8 +13,13 @@ So Create the .sh file (or any file, it's not required to be .sh) and call it 'a
 Next edit this file, I like vi, so I did 
 ```vi alertme.sh```
 Then copy and paste all (~3 lines) of the accompanying .sh file in this project into the new file you just made.  It looks like this: 
+```
+#!/bin/bash
 
+osascript -e 'display notification "Command has been finished." with title "Terminal" sound name "default"'
 
+exit
+```
 
 Great, get out of insert ```esc```, save and quit ```:wq```.
 
@@ -60,7 +65,7 @@ Next time you start up a new terminal window (when bash reloads) you can use you
 
 ## 3. DONE! How to use:
 
-So, in practice you just have to add ``` ; hi ``` to the end of your command.  Note "hi" is the alert I chose, you can use something different if you'd like.
+So, in practice you just have to add ``` ; hi ``` to the end of your command.  Note "hi" is the alias I chose, you can use something different if you'd like.
 
 ```pod update; hi```
 
@@ -69,6 +74,6 @@ Result:
 ![Image of Result](https://github.com/itali43/terminalAlert/blob/master/terminalAlertImage.png)
 
 
-## GREAT SUCCESS
+### GREAT SUCCESS
 
 
