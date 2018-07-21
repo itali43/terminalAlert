@@ -66,6 +66,7 @@ So, in practice you just have to add ``` ; hi ``` to the end of your command.  N
 
 Result:
 
+![Image of Result](https://github.com/itali43/terminalAlert/blob/master/terminalAlertImage.png)
 
 
 
