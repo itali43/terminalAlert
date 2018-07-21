@@ -6,7 +6,7 @@ When running a long shell script/command, it's nice to go browse some aimless ch
 
 ## 1.  Make the Shell Script.
 
-Find a nice quiet place to store your shell scripts.  I went with ```~/Users/itali43``` , b/c that's where my bash profile is (next step, don't worry we'll cover it fully).
+Find a nice quiet place to store your shell scripts.  I went with ```~/Users/itali43``` , b/c that's where my bash profile is (detailed further in the next step, don't worry we'll cover it fully).
 
 So Create the .sh file (or any file, it's not required to be .sh) and call it 'alertme.sh' like so:
 ```touch alertme.sh```
