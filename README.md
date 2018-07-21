@@ -77,6 +77,7 @@ Result:
 ### GREAT SUCCESS
 
 Here are some solid sources, some provide some more options, and extensions:
+
 [Here](https://apple.stackexchange.com/questions/57412/how-can-i-trigger-a-notification-center-notification-from-an-applescript-or-shel)
 
 [and Here](http://www.hackmac.org/articles/bash/bash-101-hello-world-and-a-little-further/)
